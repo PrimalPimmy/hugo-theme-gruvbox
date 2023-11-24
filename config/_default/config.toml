@@ -1,6 +1,5 @@
 baseURL = "http://localhost"
-copyright = "Copyright © 2021"
-title = "hugo-theme-gruvbox"
+copyright = "Copyright © 2023 Prashant Mishra"
 #paginate = 10
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header
@@ -26,12 +25,12 @@ enableRobotsTXT = true
   #themeColor = "blue"
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
-  author = "Michael Schnerring"
-  subtitle = "Theme Demo"
-  description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
+  author = "Prashant Mishra"
+  subtitle = "Personal Website"
+  description = "My own Personal website!"
 
   [params.logo]
-    text = "gruvbox"
+    text = "PrimalPimmy"
     url = "/"
 
   [params.prism]
@@ -42,7 +41,8 @@ enableRobotsTXT = true
       "javascript",
       "bash",
       "diff",
-      "toml"
+      "toml",
+      "yaml"
     ]
     plugins = [
       "normalize-whitespace",
@@ -100,9 +100,9 @@ enableRobotsTXT = true
     url = "/blog"
     weight = 20
   [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv"
+    identifier = "Projects"
+    name = "Projects"
+    url = "/projects"
     weight = 30
 
 [languages]
