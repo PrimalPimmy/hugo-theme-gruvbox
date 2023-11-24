@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Post List</title>
+  <style>
+    .post-container {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .post-title {
+      flex: 1;
+      margin-left: 10px;
+      word-wrap: break-word;
+    }
+
+    .post-date {
+      flex-shrink: 0;
+      display: inline-block;
+    }
+
+    h2 {
+      margin-bottom: 20px; /* Adjust spacing as needed */
+    }
+  </style>
+</head>
+<body>
+  <h2>Recent Posts</h2>
+  <div class="post-list">
+    {{ range .Pages }}
+      <div class="post-container">
+        <div class="post-title">
+          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        </div>
+        <div class="post-date">
+          {{ with .Date }}
+            <span>{{ .Format "Jan 02, 2006" }}</span>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</body>
+</html>
