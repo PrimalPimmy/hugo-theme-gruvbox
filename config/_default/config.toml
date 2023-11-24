@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "/"
 copyright = "Copyright © 2023 Prashant Mishra"
 #paginate = 10
 enableRobotsTXT = true
