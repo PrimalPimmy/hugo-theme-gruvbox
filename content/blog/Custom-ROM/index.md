@@ -58,7 +58,7 @@ Well, it's not all roses in the garden out here. It gets thorny as well ;-;
 2. **Some companies don't like you messing around like that**: Samsung is one of those companies. It's very hard to get ROMs for them because they make it so hard to unlock your phone. Although Xiaomi, OnePlus and Google Pixel allow their phones to be unlocked and rooted without voiding your warranty, others are not very generous.
 
 
-It's a slightly risk if you don't know what you're doing, but it's a heck lot of fun once you get the hang of it. Trust me, I know. I first rooted my Nexus 7 tablet and installed CyanogenMod OS into it, then there hasn't been one phone which I own and did not install a custom ROM to. It's super fun!
+It's a risk if you don't know what you're doing, but it's a heck lot of fun once you get the hang of it. Trust me, I know. I first rooted my Nexus 7 tablet and installed CyanogenMod OS into it, then there hasn't been one phone which I own and did not install a custom ROM to. It's super fun!
 
 
 
