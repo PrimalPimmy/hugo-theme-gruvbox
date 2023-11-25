@@ -81,7 +81,6 @@ document.addEventListener("keydown", (e) => {
         {{ else }}
           description: {{ .Summary | plainify | jsonify }},
         {{ end }}
-        content: {{ .Plain | jsonify }}
       })
       {{ if ne (add $index 1) $len }}
         .add(
@@ -125,11 +124,6 @@ document.addEventListener("keydown", (e) => {
       title.textContent = searchResult.title;
       title.classList.add("search__suggestion-title");
       suggestion.appendChild(title);
-
-      const description = document.createElement("div");
-      description.textContent = searchResult.description;
-      description.classList.add("search__suggestion-description");
-      suggestion.appendChild(description);
 
       if (suggestions.childElementCount === maxResultsCount) break;
     }

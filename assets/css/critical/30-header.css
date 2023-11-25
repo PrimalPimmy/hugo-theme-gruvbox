@@ -100,9 +100,7 @@ header {
 }
 
 .search__suggestion-item {
-  border-bottom: 1px dashed var(--bg2);
-  display: grid;
-  grid-template-columns: 1fr 2fr;
+  display: block;
 
   &:focus,
   &:focus-visible,
@@ -117,18 +115,13 @@ header {
   }
 }
 
-.search__suggestion-title,
-.search__suggestion-description {
-  padding: 0 1rem;
+.search__suggestion-title, {
+  padding: 0 2rem;
   margin: 1rem 0;
 }
 
 .search__suggestion-title {
   font-weight: 700;
-}
-
-.search__suggestion-description {
-  border-left: 1px solid var(--bg2);
 }
 
 .search__no-results {
