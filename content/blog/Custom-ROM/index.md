@@ -55,14 +55,14 @@ Well, it's not all roses in the garden out here. It gets thorny as well ;-;
 
 1. **Pain of choosing the best ROM for you**: If your phone is well supported, there are like, probably atleast 7+ ROMs being built simultaneously for your phone. You'll probably be going to <u>**reset**</u> your phone a lot.
 
-2. **Some companies don't like you messing around like that**: Samsung is one of those companies. It's very hard to get ROMs for them because they make it so hard to unlock your phone. Although Xiaomi, OnePlus and Google Pixel allow their phones to be unlocked and rooted without voiding your warranty, others are not very generous.
+2. **Some companies don't like you messing around like that**: Samsung is one of those companies. It's very hard to get ROMs for them because they make it so hard to unlock your phone. Although Xiaomi, OnePlus and Google Pixel allow their phones to be unlocked and rooted without voiding your warranty, others are not very generous. Especially phones which use Mediatek chipsets. They rarely get supported.
 
 
 It's a risk if you don't know what you're doing, but it's a heck lot of fun once you get the hang of it. Trust me, I know. I first rooted my Nexus 7 tablet and installed CyanogenMod OS into it, then there hasn't been one phone which I own and did not install a custom ROM to. It's super fun!
 
 
 
-Now, I'm not going to tell you how you can install custom ROMs on your device, there are tons of guides out there. I'm just trying to merely ask you to check them out if you're even a little tech savvy, trust me, it's a big rollercoaster ride out here. Enjoy it, or you know, use whatever you like! I'll be dropping some refs below for you to check it out:
+Now, I'm not going to tell you how you can install custom ROMs on your device, there are tons of guides out there. Besides, each phone's unlocking process might be different, you just have to google your device and get on with it. I'm just trying to merely ask you to check them out if you're even a little tech savvy, trust me, it's a big rollercoaster ride out here. Enjoy it, or you know, use whatever you like! I'll be dropping some refs below for you to check it out:
 
 https://en.wikipedia.org/wiki/List_of_custom_Android_distributions
 
