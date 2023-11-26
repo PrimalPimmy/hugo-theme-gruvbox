@@ -26,8 +26,8 @@ enableGitInfo = true
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
   author = "Prashant Mishra"
-  subtitle = "Personal Website"
-  description = "My own Personal website!"
+  subtitle = "Prashant Mishra - Developer"
+  description = ""
 
   [params.logo]
     text = "PrimalPimmy"
