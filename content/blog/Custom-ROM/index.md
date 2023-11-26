@@ -1,5 +1,5 @@
 ---
-title: "Custom ROMs - Breath a new life to your android device"
+title: "Custom ROMs - Breathe new life into your Android device"
 date: 2023-11-26T00:52:35+05:30
 draft: false
 disableComments: true
